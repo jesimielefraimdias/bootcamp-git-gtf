@@ -5,13 +5,14 @@
 # - git restore #Discarta alterações se adicionar a flag --staged ele retira do staged!
 # - git commit #Faz um commit
 # - ls -a #listagem de pastas com arquivos/pastas ocultas
-# Também pode adicionar a flag -g para deixar global!
+# Também pode adicionar a flag -g para deixar global! //
 # - git config user.email #setar um email
 # - git config user.username #setar um username
 # - git status #Monitora o status dos arquivos
 # - git config --list #Lista as configurações do git
-# Exemplo
+# Exemplo //
 # - git remote add origin https://github.com/jesimielefraimdias/bootcamp-git-gtf.git
-# Exemplo
+# Exemplo//
 # - git push -u origin master
 # - git remote -v #Lista os reposítorios remotos.
+# Induzindo conflito
