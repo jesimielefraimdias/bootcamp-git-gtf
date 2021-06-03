@@ -1,0 +1,14 @@
+blobs
+- O objeto blob contém metadados
+    - O tipo do objeto
+    - Tamanho
+    - Uma \0
+    - E o conteúdo
+- git hash-object
+    Espera um texto
+trees
+    - Armazena e aponta para os blobs
+    - Contem metadados
+    - Responsável por montar toda estrutura dos arquivos
+    - Pode apontar para outras árvores
+commits

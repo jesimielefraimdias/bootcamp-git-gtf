@@ -1,0 +1,17 @@
+windows: 
+	cd	#navegar pelos diretórios
+	dir	#listagem
+	mkdir	#criar pasta
+	del/rmdir	#deletar pasta, 
+	rmdir /S /Q
+	clear	#limpar terminal
+	echo	#print
+	> 	#output - direcionar saída
+unix:
+	cd	#navegar pelos diretórios
+	ls	#listagem
+	mkdir	#criar pasta
+	rm -rf	#remover pasta
+	cls	#limpar terminal
+	echo	#print
+	>	#output - direcionar saída
